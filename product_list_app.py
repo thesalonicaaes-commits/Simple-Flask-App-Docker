@@ -24,7 +24,8 @@ CORS(app) # use the CORS class to pass in the app variable, this allows cross or
 products = [
     {'id': 143, 'name': 'Notebook', 'price': 5.49},
     {'id': 144, 'name': 'Black Marker', 'price': 1.99},
-    {'id': 90, 'name': 'kaca', 'price': 90.000}
+    {'id': 90, 'name': 'kaca', 'price': 90.000},
+    {'id': 80, 'name': 'azwan', 'price': 9.1}
 ]
 
 # REST API endpoints: (The REST API endpoints are the URLs that your application will expose to the outside world. These URLs will be used to perform CRUD operations on your data.)
