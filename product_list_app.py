@@ -27,7 +27,8 @@ products = [
     {'id': 90, 'name': 'kaca', 'price': 90.000},
     {'id': 80, 'name': 'azwan', 'price': 9.1},
     {'id': 70, 'name': 'star', 'price': 10.000},
-    {'id': 79, 'name': 'thesa', 'price': 10.000}
+    {'id': 79, 'name': 'thesa', 'price': 10.000},
+    {'id': 7, 'name': 'feri', 'price': 0}
 ]
 
 # REST API endpoints: (The REST API endpoints are the URLs that your application will expose to the outside world. These URLs will be used to perform CRUD operations on your data.)
