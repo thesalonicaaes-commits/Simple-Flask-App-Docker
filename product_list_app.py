@@ -99,7 +99,7 @@ if __name__ == '__main__': # if the script is executed directly, the code block 
 
 # To test the endpoints, you can use Postman, a popular tool for testing REST APIs. You can also use curl, a command line tool for making HTTP requests.
 
-# To test the GET /products endpoint, you can use the following curl command: curl http://localhost:5070/products
+# To test the GET /products endpoint, you can use the following curl command: curl http://localhost:5070/productsdocker
 # To test the GET /products/<id> endpoint, you can use the following curl command: curl http://localhost:5070/products/143
 # To test the POST /products endpoint, you can use the following curl command: 
     # curl -X POST -H "Content-Type: application/json" -d '{"name": "Pencil", "price": 1.99}' http://localhost:5070/products (x = specify the request method, H = specify the request header, d = specify the request body)
